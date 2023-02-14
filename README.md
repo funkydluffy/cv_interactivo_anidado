@@ -5,9 +5,7 @@ A lo largo de los próximos días le iré agregando ciertos arreglos para comple
 
 Espero les sea de su interés,
 Gabriel Coria.
-.
-.
-.
+
 This is the first program entirely developed by me: It's about an interactive cv where you can find my work interview interaction, putting you in the place of the interviewer. When you run it in an ide, you'll be able to choose between different questions to make me. Inside one of them we could start a conversation in english and comeback to the spanish chat as you wish.
 Into the next days I'll be adding some edits to make the program more complex.
 
